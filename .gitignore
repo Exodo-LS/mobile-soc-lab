@@ -1,0 +1,13 @@
+# Scan Output Files
+01-pocket-soc-toolkit/rootless/scans/*.xml
+01-pocket-soc-toolkit/rootless/scans/*.nmap
+01-pocket-soc-toolkit/rootless/scans/*.gnmap
+01-pocket-soc-toolkit/rootless/scans/*.txt
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
