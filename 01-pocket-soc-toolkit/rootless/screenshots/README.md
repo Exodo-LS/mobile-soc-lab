@@ -16,8 +16,8 @@ the environment is correctly set up.
 Shows successful ping from phone to
 Metasploitable confirming lab network
 connectivity.
-- Source: 192.168.50.161 (S20 FE)
-- Target: 192.168.50.82 (Metasploitable)
+- Source: Galaxy S20 FE
+- Target: Metasploitable VM
 - Result: 4/4 packets received
 
 ### 03_nmap_default_scan. jpg
@@ -43,7 +43,7 @@ CVE-2011-2523 vsftpd 2.3.4 backdoor
 on port 21.
 - Module: unix/ftp/vsftpd_234_backdoor
 - Result: Meterpreter session opened
-- Session: 192.168.50.101 -> 192.168.50.82
+- Session: [Host IP] -> [Target IP]
 
 ## 06_root_shell.jpg
 Shows post exploltation confirmation
