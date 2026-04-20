@@ -3,9 +3,9 @@ import re, datetime, os
 
 def assess_risk(service):
     critical = ['ftp','telnet','shell','exec',
-        'login','bindshell','vnc','irc']
+        'login','bindshell','vnc','irc','java-rmi']
     high = ['http','mysql','postgresql',
-        'smtp','netbios-ssn']
+        'smtp','netbios-ssn','distccd','drb']
     medium = ['ssh','domain','rpcbind','nfs']
     if service in critical:
         return 'CRITICAL'

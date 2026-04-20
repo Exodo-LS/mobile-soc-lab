@@ -29,6 +29,20 @@ Prints report to terminal showing:
 - Critical findings summary
 - Saves report to ../scans/soc_report.txt
 
+### Risk Levels
+CRITICAL
+- ftp, telnet, shell, exec
+- login, blndshell, vnc, 1rc
+HIGH
+- http, mysql, postgresql
+- smtp, netblos-ssn
+- distccd, drb
+MEDIUM
+- ssh, domain, rpcbind, nfs
+- mountd, nlockngr
+LOW
+- Everything else
+
 ### Known Limitations
 - Requires existing nmap XML file
 - Paths are hardcoded to scans folder
