@@ -12,7 +12,7 @@ the environment is correctly set up.
 - Python 3.13
 - Metasploit Framework
 
-### 02_network_connectivity-Jpg
+### 02_network_connectivity.jpg
 Shows successful ping from phone to
 Metasploitable confirming lab network
 connectivity.
