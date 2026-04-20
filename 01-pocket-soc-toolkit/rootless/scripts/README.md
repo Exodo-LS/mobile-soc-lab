@@ -33,13 +33,16 @@ Prints report to terminal showing:
 CRITICAL
 - ftp, telnet, shell, exec
 - login, blndshell, vnc, 1rc
+
 HIGH
 - http, mysql, postgresql
 - smtp, netblos-ssn
 - distccd, drb
+
 MEDIUM
 - ssh, domain, rpcbind, nfs
 - mountd, nlockngr
+
 LOW
 - Everything else
 
