@@ -68,7 +68,7 @@ with all 30 services classified.
 - Total ports: 30
 - Critical findings: 12
 
-###09_directory_structure.jpg
+### 09_directory_structure.jpg
 Shows the clean repository file
 structure of the Moblle SOC Lab
 confirming proper organization.
