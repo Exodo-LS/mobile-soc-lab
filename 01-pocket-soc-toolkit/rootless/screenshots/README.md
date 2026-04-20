@@ -20,7 +20,7 @@ connectivity.
 - Target: Metasploitable VM
 - Result: 4/4 packets received
 
-### 03_nmap_default_scan. jpg
+### 03_nmap_default_scan.jpg
 Shows nmap default scan results against
 Metasploitable discovering 23 open ports
 with service version detection.
@@ -68,12 +68,12 @@ with all 30 services classified.
 - Total ports: 30
 - Critical findings: 12
 
-###09_directory_structure-]Pg
+###09_directory_structure.jpg
 Shows the clean repository file
 structure of the Moblle SOC Lab
 confirming proper organization.
 
-### 10_github_repo-jPg
+### 10_github_repo.jpg
 Shows the live GitHub repository
 at github.com/Exodo-LS/mobile-soc-lab
 confirming successful publication.
